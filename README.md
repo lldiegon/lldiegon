@@ -7,7 +7,8 @@
 </a>
 <a href="https://stackoverflow.com/users/lightspeed-it-nl" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>  
+</a>
+<br>  
 I'm a developer that likes to find out new things, experiment with stuff and document it along the way.
 
 ## 🖥️ [My Personal Portfolio website](https://diegonijboer.nl/)
@@ -15,8 +16,6 @@ I'm a developer that likes to find out new things, experiment with stuff and doc
 Read about the stuff I enjoy, use and read: Gadgets, Hacks and More!
 ## 🚀 [My Business](https://lightspeed-it.nl/)
 
-## &#x1f4c8; GitHub Stats
-![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=lldiegon&show_icons=true&theme=tokyonight&count_private=true)
 
 ## 🛠️ Languages and Tools  
 <div align="center">  
@@ -61,6 +60,8 @@ Read about the stuff I enjoy, use and read: Gadgets, Hacks and More!
 
 <br/>  
 
+## &#x1f4c8; GitHub Stats
+![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=lldiegon&show_icons=true&theme=tokyonight&count_private=true)
 <!--
 **lldiegon/lldiegon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

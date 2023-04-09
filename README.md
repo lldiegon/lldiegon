@@ -1,8 +1,10 @@
 ## Hi there 👋
 I'm a developer that likes to find out new things, experiment with stuff and document it along the way.
 
+## 🖥️ [My Personal Portfolio website](https://diegonijboer.nl/)
 ## 📚 [Notes and Ideas: iDiego Wiki](https://idiego.wiki/)
 Read about the stuff I enjoy, use and read: Gadgets, Hacks and More!
+## 🚀 [My Business](https://lightspeed-it.nl/)
 
 ## &#x1f4c8; GitHub Stats
 ![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=lldiegon&show_icons=true&theme=tokyonight&count_private=true)

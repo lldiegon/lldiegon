@@ -1,7 +1,7 @@
-### Hi there 👋
+## Hi there 👋
 
 ## &#x1f4c8; GitHub Stats
-![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=lldiegon&show_icons=true&theme=tokyonight)
+![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=lldiegon&show_icons=true&theme=tokyonight&count_private=true)
 
 
 <!--

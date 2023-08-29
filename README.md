@@ -9,7 +9,7 @@
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
 <br>  
-I'm a developer that likes to find out new things, experiment with stuff and document it along the way.
+I'm a developer that likes to figure out new things, experiment with stuff and document it along the way.
 
 ## 🖥️ [My Personal Portfolio website](https://diegonijboer.nl/)
 ## 📚 [Notes and Ideas: iDiego Wiki](https://idiego.wiki/)
